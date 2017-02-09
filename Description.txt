@@ -1,0 +1,1 @@
+A script to juxtapose two versions of the same text, e.g. to make a bilingua, positioning the corresponding texts next to each other.
